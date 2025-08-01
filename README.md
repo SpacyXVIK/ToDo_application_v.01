@@ -1,6 +1,6 @@
 # to_do_app
 
-<img src="images/scr01.png" width=250 height=450 />
+<img src="images/scr01.png" width=250 height=500 />
 
 A new Flutter project.
 
